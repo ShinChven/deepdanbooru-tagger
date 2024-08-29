@@ -87,8 +87,6 @@ python cli.py "$@"
 
 This script will change to the repository directory, activate the virtual environment, and run the CLI with the provided arguments.
 
-## Example
-
 Here's an example of how you might use the script:
 
 ```sh
@@ -97,9 +95,10 @@ Here's an example of how you might use the script:
 
 This will process the images in the specified directory or file, append and prepend the specified tags, and generate interrogation files.
 
-## Conclusion
+## LICENSE
 
-DeepDanbooru Tagger is a powerful tool for tagging images using the DeepDanbooru model, with extensive support for customization and CLI usage. Follow the instructions above to get started and streamline your workflow with the provided bash script.
+[LICENSE](./LICENSE)
+
 
 
 
