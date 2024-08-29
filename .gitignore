@@ -1,5 +1,4 @@
 output/
-lib/
 .vscode/
 
 __pycache__/

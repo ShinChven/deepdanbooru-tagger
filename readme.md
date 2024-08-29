@@ -82,7 +82,7 @@ For experienced programmers, it is recommended to use a bash script to streamlin
 #!/bin/bash
 cd /path/to/repository
 source venv/bin/activate
-python cli.py "$@"
+python lib/cli.py "$@"
 ```
 
 This script will change to the repository directory, activate the virtual environment, and run the CLI with the provided arguments.
