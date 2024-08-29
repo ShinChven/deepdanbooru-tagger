@@ -2,7 +2,7 @@
 
 ## Introduction
 
-DeepDanbooru Tagger is a program that tags images using the DeepDanbooru model. This tool supports command-line interface (CLI) for easy and efficient processing of images. Users can tag images, append or prepend custom tags, and optionally generate detailed interrogation files.
+DeepDanbooru Tagger is a program that tags images using the DeepDanbooru model. This tool supports command-line interface (CLI) for easy and efficient processing of images. Users can tag images, append or prepend custom tags, and optionally generate detailed interrogation files. It is especially useful for preparing training data for Stable Diffusion models.
 
 ## Installation
 
